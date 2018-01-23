@@ -1,0 +1,6 @@
+#Contacts API
+
+-- Author: Donald Sepeng
+-- Date: 24 November 2017
+
+Please keep this file when distributing or redistributing the application

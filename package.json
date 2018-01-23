@@ -1,0 +1,28 @@
+{
+  "name": "contactsapi",
+  "version": "1.0.0",
+  "description": "simple contacts list api ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "contacts"
+  ],
+  "author": "Donald Sepeng",
+  "contributors": [
+    "Donald Sepeng"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "debug-logger": "^0.4.1",
+    "dotenv": "^4.0.0",
+    "express": "^4.16.2",
+    "jsonwebtoken": "^8.1.0",
+    "mongoose": "^4.13.7",
+    "morgan": "^1.9.0"
+  }
+}
